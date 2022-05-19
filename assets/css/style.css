@@ -1,0 +1,24 @@
+/* START MAIN */
+.main{
+    background-color: var(--background-header-footer);
+}
+
+.main__color{
+    background-color: var(--background-color-main);
+}
+    
+.main__img{
+    width: 100%;
+    
+}
+
+.main__title{
+    font-family: var(--font);
+    color: var(--background-color-navbar);
+    text-transform: uppercase;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+    font-size: 3.0rem;
+    font-weight: bold;
+}
+/* END MAIN */

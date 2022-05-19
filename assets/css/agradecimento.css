@@ -1,0 +1,28 @@
+.main{
+    background: var(--background-color-main);
+}
+
+.main__title{
+    font-family: var(--font);
+    color: var(--background-color-navbar);
+    text-transform: uppercase;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+    font-size: 5.0rem;
+    font-weight: bold;
+}
+
+.div__gif{
+    width: 100%;
+}
+
+.main__p{
+    font-family: var(--font);
+    font-size: 9.0rem;
+    line-height: 1.5;
+    color: var(--background-color-navbar);
+    text-align: justify;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+    text-transform: uppercase;
+}

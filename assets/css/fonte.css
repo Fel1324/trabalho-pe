@@ -1,0 +1,40 @@
+.main{
+    background: var(--background-color-main);
+}
+
+.main__title{
+    font-family: var(--font);
+    color: var(--background-color-navbar);
+    text-transform: uppercase;
+    text-align: center;
+    padding: 25px 0px 5px 0px;
+    font-size: 3.0rem;
+    font-weight: bold;
+}
+
+.div__title{
+    font-family: var(--font);
+    color: var(--background-color-navbar);
+    font-size: 3.0rem; 
+    padding: 0px 0px 10px 50px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.div__a{
+    font-family: var(--font);
+    font-size: 2rem;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 0px 20px 5px 40px;
+    display: block;
+}
+
+.div__a2{
+    font-family: var(--font);
+    font-size: 2rem;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 0px 20px 100px 40px;
+    display: block;
+}
