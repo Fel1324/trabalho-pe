@@ -1,0 +1,23 @@
+{
+  "name": "p.e",
+  "version": "1.0.0",
+  "description": "",
+  "source": "assets/html/index.html",
+  "scripts": {
+    "build": "parcel build --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fel1324/trabalho-pe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fel1324/trabalho-pe/issues"
+  },
+  "homepage": "https://github.com/Fel1324/trabalho-pe#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
